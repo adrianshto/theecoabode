@@ -1,0 +1,147 @@
+{
+   "sections":{
+      "main":{
+         "type":"main-product",
+         "blocks":{
+            "product_meta":{
+               "type":"product_meta",
+               "settings":{
+                  "show_vendor":false,
+                  "show_sku":false,
+                  "show_taxes_included":false
+               }
+            },
+            "description":{
+               "type":"description",
+               "settings":{
+                  
+               }
+            },
+            "variant_selector":{
+               "type":"variant_selector",
+               "settings":{
+                  "selector_mode":"dropdown",
+                  "show_color_swatch":false,
+                  "show_color_carousel":false,
+                  "size_chart":""
+               }
+            },
+            "buy_buttons":{
+               "type":"buy_buttons",
+               "settings":{
+                  "show_price_in_button":false,
+                  "show_payment_button":false
+               }
+            }
+         },
+         "block_order":[
+            "product_meta",
+            "description",
+            "variant_selector",
+            "buy_buttons"
+         ],
+         "settings":{
+            "image_size":"large",
+            "stack_images":false,
+            "show_thumbnails":true,
+            "enable_image_zoom":true,
+            "enable_video_looping":true
+         }
+      },
+      "1629276186ac3d30ac":{
+         "type":"text-with-image",
+         "settings":{
+            "subheading":"",
+            "title":"Save your money, save our earth!",
+            "image":"shopify:\/\/shop_images\/Untitled_design_2.png",
+            "image_position":"right",
+            "content":"<p>With 1 set of our EcoLids, you can save up to 24 rolls of cling wrap a year. That's <strong>nearly $90 USD in savings<\/strong>! Not only do you save money on cling wrap, you help save our environment.<\/p>",
+            "link_text":"",
+            "link_url":""
+         }
+      },
+      "16292762605aac553c":{
+         "type":"text-with-image",
+         "settings":{
+            "subheading":"",
+            "title":"Eco-Friendly Material",
+            "image":"shopify:\/\/shop_images\/343388-5ywdlm.jpg",
+            "image_position":"left",
+            "content":"<p>Made from platinum food grade silicone. EcoLids are non-toxic, biodegradable, BPA and BPS free.<\/p>",
+            "link_text":"",
+            "link_url":""
+         }
+      },
+      "1629276814787c40b7":{
+         "type":"text-with-image",
+         "settings":{
+            "subheading":"",
+            "title":"Versatile & Airtight",
+            "image":"shopify:\/\/shop_images\/ezgif.com-gif-maker_5.gif",
+            "image_position":"right",
+            "content":"<p>With <strong>6 sizes<\/strong> of highly-stretchable silicone lids, you can seal anything from an avocado to a watermelon. EcoLids can stretch <strong>over 2x its original size<\/strong>, sealing any and all containers. Its <strong>100% airtight seal<\/strong> means you can store you favourite juices, soups and broths securely.<\/p>",
+            "link_text":"",
+            "link_url":""
+         }
+      },
+      "1629276961072a4b4b":{
+         "type":"text-with-image",
+         "settings":{
+            "subheading":"",
+            "title":"MICROWAVE, FREEZER & DISHWASHER SAFE",
+            "image":"shopify:\/\/shop_images\/ecoinnova-6-pack-stretch-seal-silicone-lids-635184_2048x_crop_center_da68f76a-c917-4380-bba3-bddf7d0f98a5.jpg",
+            "image_position":"left",
+            "content":"<p>Our EcoLids can be used countless times, and <strong>don't stain or retain smell. <\/strong>It can withstand heavy stretching and temperatures from <strong>-30 to 230 ºC \/ 86 to 446 °F<\/strong><\/p>",
+            "link_text":"",
+            "link_url":""
+         }
+      },
+      "1629277171dcdddd9c":{
+         "type":"text-with-image",
+         "settings":{
+            "subheading":"",
+            "title":"Easy to Clean, Easy to Store",
+            "image":"shopify:\/\/shop_images\/ezgif.com-gif-maker_10.gif",
+            "image_position":"right",
+            "content":"<p>Wash it in a dishwasher or by hand, EcoLids smooth silicone surface makes cleaning up a breeze. You can also stack EcoLid dishes on top of each other in the fridge to save space!<\/p>",
+            "link_text":"",
+            "link_url":""
+         }
+      },
+      "sections":{
+         "faq":{
+            "type":"ecolidsfaq"
+         }
+      },
+      "product-recommendations":{
+         "type":"product-recommendations",
+         "settings":{
+            "show_product_recommendations":true,
+            "heading":"You may also like",
+            "show_product_info":true,
+            "show_vendor":false,
+            "show_color_swatch":false
+         }
+      },
+      "recently-viewed-products":{
+         "type":"recently-viewed-products",
+         "settings":{
+            "title":"Recently viewed",
+            "show_product_info":true,
+            "show_vendor":false,
+            "show_color_swatch":false
+         }
+      }
+   },
+   "order":[
+      "main",
+      "1629276186ac3d30ac",
+      "16292762605aac553c",
+      "1629276814787c40b7",
+      "1629276961072a4b4b",
+      "1629277171dcdddd9c",
+      "ecolidsfaq",
+      "product-recommendations",
+      "recently-viewed-products"
+   ]
+}
